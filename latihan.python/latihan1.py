@@ -1,0 +1,6 @@
+print ("===========================")
+print ("nim : 19260849")
+print ("nama: sumanto")
+print ("kelas: 12.1a.14")
+print ("jurusan: sistem informasi")
+print ("===========================")
